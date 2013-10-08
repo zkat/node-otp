@@ -1,0 +1,26 @@
+{
+  "name": "node-otp",
+  "version": "0.0.0",
+  "description": "The Node.js Open Telecom Platform",
+  "main": "src/otp.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zkat/node-otp"
+  },
+  "keywords": [
+    "concurrency",
+    "otp",
+    "erlang",
+    "actor",
+    "actors",
+    "scalability"
+  ],
+  "author": "Kat Marchán <kzm@sykosomatic.org>",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/zkat/node-otp/issues"
+  }
+}
